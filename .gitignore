@@ -1,0 +1,31 @@
+node_modules/
+.cache/
+public/
+_output/
+.DS_Store
+# Eleventy output directory (_site) if hosting elsewhere
+dist/
+output/
+build/
+# GitHub Pages generated site
+_site/
+# Eleventy cache
+.eleventy/
+# Log files
+npm-debug.log*
+yarn-error.log
+.pnpm-debug.log
+
+# Dependency directories
+node_modules/
+
+# Eleventy’s cache
+.cache/
+
+# IDE / Editor files
+.vscode/
+.idea/
+.DS_Store
+
+# Optional: Ignore GitHub Pages workflow logs
+.github/
