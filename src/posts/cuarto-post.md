@@ -1,6 +1,6 @@
 ---
-title: Mi Primer Post
-date: 2025-03-14
+title: Mi tERCER
+date: 2025-03-15
 layout: main.njk
 image: "/img/reto00002.png"
 
